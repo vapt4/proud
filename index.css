@@ -1,0 +1,89 @@
+#grolick {
+    color: black ;
+}
+
+#head1 {
+    color:black ;
+}
+
+* {
+    font-family: monospace;
+    color: black;
+}
+
+#aboutus {
+    display: inline-block;
+}
+
+#head1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 20%;
+}
+
+#header {
+    display: flex;
+    justify-content: center;
+}
+
+#header h4 {
+    display: inline-block;
+    justify-items: center;
+    padding: 10px;
+}
+#proud {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color:beige ;
+  }
+
+  button {
+    background-color: transparent;
+  }
+
+  *{font-family: sans-serif;}
+
+  #header {
+    background-color:beige;
+    padding: 13px;
+    text-align: center;
+}
+
+#secondpic {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#secondpic  {
+    width: 850px;
+    height: auto;
+}
+#header button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#proud {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#grolick {
+    text-align: center;
+    margin: 35px;
+}
+
+#image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#image-container img {
+    width: 850px;
+    height: auto;
+}
